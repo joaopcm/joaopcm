@@ -1,6 +1,14 @@
 
 ### Hey there, I'm João 👋
-I am a software engineer living in São Paulo (São Paulo, Brazil) looking for ways to make the world better through technology.  
+Technology lover 💛
+
+Enthusiast of the best web & mobile development technologies. Currently focused on OmniStack (NodeJS, ReactJS and React Native).
+
+Team player Software Engineer with more than 4 years' experience delivering high-quality and performance solutions through technology.
+
+Passionate about changing people's lives through programming.
+
+Let's take off 🚀
 
 ### Find me around the web 🌎
 ---
