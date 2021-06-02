@@ -10,6 +10,8 @@ Passionate about changing people's lives through programming.
 
 Let's take off 🚀
 
+<figure><embed src="https://wakatime.com/share/@jopcmelo/26848f39-0860-463e-9dbd-1ce4d5d5964d.svg"></embed></figure>
+
 ### Find me around the web 🌎
 - Visit my website on [jopcmelo.dev](https://jopcmelo.dev)
 - Wave me a hi on [LinkedIn](https://www.linkedin.com/in/joaopcm/)
