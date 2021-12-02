@@ -4,7 +4,7 @@ Technology lover 💛
 
 Enthusiast of the best web & mobile development technologies. Currently focused on OmniStack (NodeJS, ReactJS and React Native).
 
-Team player Software Engineer with more than 4 years' experience delivering high-quality and performance solutions through technology.
+Team player Software Engineer with more than 5 years' experience delivering high-quality and performance solutions through technology.
 
 Passionate about changing people's lives through programming.
 
