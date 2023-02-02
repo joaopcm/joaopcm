@@ -3,8 +3,6 @@
 Enthusiast of the best web & mobile development technologies.
 
 Team player Software Engineer with more than 5 years' experience delivering high-quality and performance solutions through technology.
-
-[Find me on the internet](https://quicklinks.jopcmelo.dev)
  
 <div align="center">
  
