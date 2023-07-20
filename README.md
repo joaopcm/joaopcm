@@ -6,7 +6,7 @@ In addition to my love of computers, I have a deep passion for travel. Exploring
 
 Beyond my technical expertise and love of travel, I am also an entrepreneur at heart. As a co-founder and CTO of Vain, a platform that simplifies the provision and use of aesthetic services in Brazil, I thrive on the challenges and opportunities of building a successful company. ⭐
 
-If you're interested in learning more about my skills and experience, feel free to reach out to me directly at jopcmelo@gmail.com or head to https://jopcmelo.dev/hire-me to schedule a 30-minute chat with me directly 😁
+If you're interested in learning more about my skills and experience, feel free to reach out to me directly at hi@jopcmelo.dev or head to https://jopcmelo.dev/hire-me to schedule a 30-minute chat with me directly 😁
  
 <div align="center">
  
