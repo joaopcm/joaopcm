@@ -1,6 +1,6 @@
 ## Hey there, I'm João 👋
 
-As a Software Engineer with over 6 years of experience, I bring a team-oriented approach to delivering high-quality, performance-driven solutions through technology. My passion for creating things started at a young age when I wrote my first program at just 12 years old. Inspired by my love for Minecraft, I taught myself Java and began programming server plugins. This got me to where I am today, doing amazing things with JavaScript (and TypeScript). 🤖
+As a Software Engineer with over 7 years of experience, I bring a team-oriented approach to delivering high-quality, performance-driven solutions through technology. My passion for creating things started at a young age when I wrote my first program at just 12 years old. Inspired by my love for Minecraft, I taught myself Java and began programming server plugins. This got me to where I am today, doing amazing things with JavaScript (and TypeScript). 🤖
 
 In addition to my love of computers, I have a deep passion for travel. Exploring new places and having unique experiences is something that brings me great joy, whether it's jumping out of a plane or enjoying a nice meal at a new restaurant. I am particularly drawn to cold destinations, but I also find warmth and adventure everywhere I visit. 🛩️
 
